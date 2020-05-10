@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="NavigateActionServer" pkg="mybot_description" type="NavigateActionServer.py" output="screen"/>
+  <node name="NavigateActionClient" pkg="mybot_description" type="NavigateActionClient.py" output="screen"/>
+
+</launch>

@@ -1,0 +1,1 @@
+/home/varsh/mybot_ws/devel/.private/turtlebot3_teleop/lib/pkgconfig/turtlebot3_teleop.pc

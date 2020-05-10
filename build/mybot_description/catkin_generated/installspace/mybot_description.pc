@@ -1,0 +1,8 @@
+prefix=/home/varsh/mybot_ws/install
+
+Name: mybot_description
+Description: Description of mybot_description
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

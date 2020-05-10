@@ -1,0 +1,8 @@
+prefix=/home/varsh/mybot_ws/devel/.private/mybot_description
+
+Name: mybot_description
+Description: Description of mybot_description
+Version: 0.0.0
+Cflags: -I/home/varsh/mybot_ws/devel/.private/mybot_description/include
+Libs: -L${prefix}/lib 
+Requires: 

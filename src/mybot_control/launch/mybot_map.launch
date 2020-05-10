@@ -1,0 +1,14 @@
+<launch>
+
+  <node name="sub" pkg="mybot_control" type="sub.py"/>
+  <node name="createMapPoint" pkg="mybot_control" type="createMapPoint.py"/>
+
+  <node name="teleop" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" output="screen"/>
+
+  <node pkg="rosbag" type="record" name="rosbag_record" output="screen" args="/mybot/map_points"/>
+
+  <node name="image_saver" pkg="image_view" type="image_saver" args="_filename_format:=/home/varsh/newmap/image%04i.jpg" output="screen">
+    <remap from="image" to="/mybot/map_point_images"/>
+  </node>
+
+</launch>

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/varsh/mybot_ws/devel/.private/turtlebot3_bringup/setup.sh

@@ -1,0 +1,10 @@
+# Define the goal
+mybot_description/MapPoint goal_pose
+---
+#Define the result
+sensor_msgs/Image goal_image
+float64 decision_score
+bool status
+---
+# Define feedback
+nav_msgs/Odometry current_pose

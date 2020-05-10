@@ -1,0 +1,6 @@
+rosrun image_view image_saver image:=/mybot/map_point_images _filename_format:=/home/varsh/newmap/image%04i.jpg
+
+
+roslaunch turtlebot3_gazebo turtlebot3_room3x3.roslaunch
+rosrun mybot_description NavigateActionServer.py
+rosrun mybot_description NavigateActionClient.py

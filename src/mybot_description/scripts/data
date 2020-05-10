@@ -1,0 +1,1384 @@
+
+header:
+  seq: 851
+  stamp:
+    secs: 28
+    nsecs: 420000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.9319
+      y: 0.9959
+      z: -0.00100225513266
+    orientation:
+      x: 1.34168156531e-05
+      y: 0.000509999347294
+      z: -0.0382847416381
+      w: 0.999266740304
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000126224816433
+      y: -5.06850120984e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000463167936753
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-4.38818158083
+[ INFO:0] Initialize OpenCL runtime...
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 64, 61)
+('\nORB DECISION SCORE', -50.90422058105469)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 43)
+('MATCH SCORE', 70)
+('YOU are at node', 2)
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 64, 61)
+Bitch match
+[WARN] [1581647365.764808, 28.886000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 1474
+  stamp:
+    secs: 49
+    nsecs: 186000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.3222
+      y: 0.952
+      z: -0.00100246698768
+    orientation:
+      x: -2.96142099833e-05
+      y: -0.000704311153337
+      z: -0.0316369007685
+      w: 0.999499179379
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000148087665372
+      y: -6.1193281197e-07
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000132911232663
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-3.6259271247
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 64, 57)
+('\nORB DECISION SCORE', -6.301155090332031)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 34)
+('MATCH SCORE', 59)
+[WARN] [1581647389.836213, 49.226000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 2152
+  stamp:
+    secs: 71
+    nsecs: 787000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.7227
+      y: 1.0136
+      z: -0.0010016474082
+    orientation:
+      x: -0.000503946357713
+      y: 0.00250741424451
+      z: 0.19429272729
+      w: 0.980940260686
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 0.000116261082707
+      y: 3.98073061051e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.000456318904294
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+22.4068914474
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 66, 24)
+('\nORB DECISION SCORE', 293.78602600097656)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 12)
+('MATCH SCORE', 50)
+[WARN] [1581647416.760860, 71.824000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 2835
+  stamp:
+    secs: 94
+    nsecs: 554000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.3651
+      y: 1.4331
+      z: -0.00100168785105
+    orientation:
+      x: -0.00161721186215
+      y: 0.00177580079009
+      z: 0.671601296452
+      w: 0.740908853882
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000175243019442
+      y: -6.92331099562e-07
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.0100486641875
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.3818465734
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 29, 34)
+('\nORB DECISION SCORE', 353.26768493652344)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 9)
+('MATCH SCORE', 31)
+[WARN] [1581647443.935776, 94.612000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 3458
+  stamp:
+    secs: 115
+    nsecs: 320000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2884
+      y: 2.0335
+      z: -0.00100227262736
+    orientation:
+      x: -0.00051049153289
+      y: 0.000554768469496
+      z: 0.670845404015
+      w: 0.741596841648
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000139783621335
+      y: 5.30976997441e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000289060663783
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.2647230299
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 38, 24)
+('\nORB DECISION SCORE', -48.72914123535156)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 13)
+('MATCH SCORE', 54)
+[WARN] [1581647468.735729, 115.368000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 4068
+  stamp:
+    secs: 135
+    nsecs: 653000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2296
+      y: 2.6389
+      z: -0.00100234251313
+    orientation:
+      x: -0.00023211538761
+      y: 0.000240259777241
+      z: 0.676108146821
+      w: 0.736802322336
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -9.27810899991e-05
+      y: -5.48685651945e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.0088999307301
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+85.0805323346
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 23, 12)
+('\nORB DECISION SCORE', -523.7179870605469)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 6)
+('MATCH SCORE', 50)
+[WARN] [1581647494.181921, 135.683000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 4660
+  stamp:
+    secs: 155
+    nsecs: 387000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.1719
+      y: 3.2546
+      z: -0.00100214978618
+    orientation:
+      x: -0.000830510098528
+      y: 0.000893223044072
+      z: 0.675579833748
+      w: 0.737285833743
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000105913105998
+      y: -8.11834649843e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000591037082916
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.9984645072
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 10, 7)
+('\nORB DECISION SCORE', -170.22308349609375)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 5)
+('MATCH SCORE', 71)
+('YOU are at node', 8)
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 10, 7)
+Bitch match
+[WARN] [1581647517.923526, 155.414000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 5375
+  stamp:
+    secs: 179
+    nsecs: 220000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2838
+      y: 3.8015
+      z: -0.00100193250381
+    orientation:
+      x: -0.00236084021666
+      y: 0.000751134847856
+      z: 0.951988222794
+      w: 0.306124624772
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -2.4624760586e-05
+      y: -7.40242285258e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.00768185482423
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+144.348211109
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 7, 57)
+('\nORB DECISION SCORE', 1229.5618057250977)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 3)
+('MATCH SCORE', 42)
+[WARN] [1581647546.272246, 179.284000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 6145
+  stamp:
+    secs: 204
+    nsecs: 882000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.8756
+      y: 3.9831
+      z: -0.00100155577267
+    orientation:
+      x: 0.00257124830962
+      y: 3.41048832753e-05
+      z: -0.999933739105
+      w: 0.0112207360573
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -3.80900368362e-05
+      y: 5.79812541015e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.000639755978734
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-178.714168675
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 59, 57)
+('\nORB DECISION SCORE', -1781.4889678955078)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 27)
+('MATCH SCORE', 47)
+[WARN] [1581647577.057622, 204.916000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+^A
+----
+
+varsh@varsh-HP-ENVY-Notebook:~$ rosrun mybot_description NavigateActionServer.py
+Hello i am exceuting
+header:
+  seq: 940
+  stamp:
+    secs: 31
+    nsecs: 531000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.9325
+      y: 0.996
+      z: -0.00100227591576
+    orientation:
+      x: 4.66412409969e-06
+      y: 0.000288510604092
+      z: -0.0375736314222
+      w: 0.999293820136
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000127342100225
+      y: -4.66747722533e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000500684574946
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-4.30663512743
+[ INFO:0] Initialize OpenCL runtime...
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 171, 176)
+('\nORB DECISION SCORE', -291.7688522338867)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 119)
+('MATCH SCORE', 69)
+('YOU are at node', 2)
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 171, 176)
+Bitch match
+[WARN] [1581648365.437964, 31.597000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 1651
+  stamp:
+    secs: 55
+    nsecs: 230000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.3231
+      y: 0.952
+      z: -0.00100243801775
+    orientation:
+      x: -4.37116794785e-05
+      y: -0.00113555006154
+      z: -0.0319131314655
+      w: 0.999490000278
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.00013780919725
+      y: -1.98220423415e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000103440581666
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-3.65759790487
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 180, 178)
+('\nORB DECISION SCORE', 1188.9801483154297)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 107)
+('MATCH SCORE', 60)
+[WARN] [1581648390.540651, 55.302000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 2433
+  stamp:
+    secs: 81
+    nsecs: 298000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.7225
+      y: 1.0137
+      z: -0.00100176675489
+    orientation:
+      x: -0.000434633920436
+      y: 0.00216355563195
+      z: 0.193822301399
+      w: 0.981034171475
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 0.000119768305108
+      y: 4.89820476987e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.000516042465004
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+22.3519212064
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 169, 189)
+('\nORB DECISION SCORE', -3086.9142532348633)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 81)
+('MATCH SCORE', 47)
+[WARN] [1581648419.002124, 81.349000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 3222
+  stamp:
+    secs: 107
+    nsecs: 597000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.365
+      y: 1.433
+      z: -0.00100181847201
+    orientation:
+      x: -0.00139012077645
+      y: 0.00152511626461
+      z: 0.671791465932
+      w: 0.740737448686
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -7.20497443826e-05
+      y: 2.11271396577e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 9.3979903696e-05
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.4111841035
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 188, 142)
+('\nORB DECISION SCORE', -16681.04029083252)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 81)
+('MATCH SCORE', 57)
+[WARN] [1581648448.796725, 107.655000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 3950
+  stamp:
+    secs: 131
+    nsecs: 864000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2885
+      y: 2.0331
+      z: -0.00100231765297
+    orientation:
+      x: -0.000137982460462
+      y: 0.000142862928035
+      z: 0.671284765994
+      w: 0.741199516659
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000132496364564
+      y: -5.33045658144e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000492151923183
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.3326044207
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 153, 123)
+('\nORB DECISION SCORE', -1529.742618560791)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 74)
+('MATCH SCORE', 60)
+[WARN] [1581648476.521378, 131.912000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 4664
+  stamp:
+    secs: 155
+    nsecs: 660000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2297
+      y: 2.6383
+      z: -0.00100239915877
+    orientation:
+      x: 0.000275141256675
+      y: -0.000312351497811
+      z: 0.676183711139
+      w: 0.73673293365
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000131035257617
+      y: 2.10451074776e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 5.45060254927e-05
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+85.0922890434
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 124, 82)
+('\nORB DECISION SCORE', -1536.131591796875)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 49)
+('MATCH SCORE', 59)
+[WARN] [1581648502.818562, 155.710000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 5361
+  stamp:
+    secs: 178
+    nsecs: 898000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.172
+      y: 3.2541
+      z: -0.00100220243264
+    orientation:
+      x: -0.000528497268707
+      y: 0.000563869827439
+      z: 0.676027557092
+      w: 0.736875935822
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000112009096135
+      y: -8.74145376048e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000698594608321
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+85.0680243311
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 93, 52)
+('\nORB DECISION SCORE', -1256.2448120117188)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 33)
+('MATCH SCORE', 63)
+[WARN] [1581648529.623460, 178.945000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 6180
+  stamp:
+    secs: 206
+    nsecs: 198000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2837
+      y: 3.8013
+      z: -0.0010023717598
+    orientation:
+      x: -0.00205199989357
+      y: 0.000654971312558
+      z: 0.951579600473
+      w: 0.307394899556
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 4.59480098236e-05
+      y: 3.66408908595e-07
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.00126042926055
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+144.195302329
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 61, 108)
+('\nORB DECISION SCORE', 11544.965618133545)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 34)
+('MATCH SCORE', 55)
+[WARN] [1581648561.274242, 206.242000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+^C[ERROR] [1581648568.980406, 212.616000]: Exception in your execute callback: ROS shutdown request
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/simple_action_server.py", line 289, in executeLoop
+    self.execute_callback(goal)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 314, in execute
+    res = x.move2goal(X,Y,angleOfApproach)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 131, in move2goal
+    self.rate.sleep()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 103, in sleep
+    sleep(self._remaining(curr_time))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 166, in sleep
+    raise rospy.exceptions.ROSInterruptException("ROS shutdown request")
+ROSInterruptException: ROS shutdown request
+
+varsh@varsh-HP-ENVY-Notebook:~$ rosrun mybot_description NavigateActionServer.py
+Hello i am exceuting
+header:
+  seq: 7169
+  stamp:
+    secs: 239
+    nsecs: 188000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.9313
+      y: 0.996
+      z: -0.00100201885403
+    orientation:
+      x: 3.67611652024e-05
+      y: 0.00112768182177
+      z: -0.0390351044083
+      w: 0.999237202873
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 0.000116362448276
+      y: 6.39018238082e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.0006533755731
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-4.47423401331
+[ INFO:0] Initialize OpenCL runtime...
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 115, 176)
+('\nORB DECISION SCORE', -2405.0590057373047)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 59)
+('MATCH SCORE', 51)
+[WARN] [1581648598.035327, 239.230000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+^C[ERROR] [1581648616.619828, 255.811000]: Exception in your execute callback: ROS shutdown request
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/simple_action_server.py", line 289, in executeLoop
+    self.execute_callback(goal)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 314, in execute
+    res = x.move2goal(X,Y,angleOfApproach)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 131, in move2goal
+    self.rate.sleep()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 103, in sleep
+    sleep(self._remaining(curr_time))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 166, in sleep
+    raise rospy.exceptions.ROSInterruptException("ROS shutdown request")
+ROSInterruptException: ROS shutdown request
+
+varsh@varsh-HP-ENVY-Notebook:~$ rosrun mybot_description NavigateActionServer.py
+Hello i am exceuting
+header:
+  seq: 8903
+  stamp:
+    secs: 296
+    nsecs: 989000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.9316
+      y: 0.9952
+      z: -0.0010019398494
+    orientation:
+      x: -1.37414460703e-06
+      y: 0.000145444819173
+      z: -0.033713503582
+      w: 0.99943152768
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 6.4624998955e-05
+      y: 6.18503994448e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -9.26432830396e-05
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-3.86401529045
+[ INFO:0] Initialize OpenCL runtime...
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 143, 176)
+('\nORB DECISION SCORE', -662.4048843383789)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 114)
+('MATCH SCORE', 79)
+('YOU are at node', 2)
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 143, 176)
+Bitch match
+[WARN] [1581648661.283028, 297.048000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 9641
+  stamp:
+    secs: 321
+    nsecs: 589000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.3218
+      y: 0.9524
+      z: -0.00100179645949
+    orientation:
+      x: -5.50797885934e-05
+      y: -0.00140046473507
+      z: -0.0349162265412
+      w: 0.999389259893
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 2.62552681277e-05
+      y: 6.76445034203e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 5.12530565791e-05
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-4.00192121231
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 190, 178)
+('\nORB DECISION SCORE', 1553.8998641967773)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 104)
+('MATCH SCORE', 58)
+[WARN] [1581648688.016733, 321.633000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 10532
+  stamp:
+    secs: 351
+    nsecs: 289000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.7262
+      y: 1.0127
+      z: -0.00100256439517
+    orientation:
+      x: -0.000187266940231
+      y: 0.000893080540246
+      z: 0.195924097723
+      w: 0.980618639059
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 1.55156562777e-06
+      y: 1.36121415458e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.00142456454037
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+22.5974323448
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 188, 189)
+('\nORB DECISION SCORE', -4372.23388671875)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 92)
+('MATCH SCORE', 48)
+[WARN] [1581648720.101357, 351.314000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+^C[ERROR] [1581648723.054361, 353.536000]: Exception in your execute callback: ROS shutdown request
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/simple_action_server.py", line 289, in executeLoop
+    self.execute_callback(goal)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 314, in execute
+    res = x.move2goal(X,Y,angleOfApproach)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 131, in move2goal
+    self.rate.sleep()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 103, in sleep
+    sleep(self._remaining(curr_time))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 166, in sleep
+    raise rospy.exceptions.ROSInterruptException("ROS shutdown request")
+ROSInterruptException: ROS shutdown request
+
+varsh@varsh-HP-ENVY-Notebook:~$ rosrun mybot_description NavigateActionServer.py
+Hello i am exceuting
+^C[ERROR] [1581648940.603729, 553.132000]: Exception in your execute callback: ROS shutdown request
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/simple_action_server.py", line 289, in executeLoop
+    self.execute_callback(goal)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 314, in execute
+    res = x.move2goal(X,Y,angleOfApproach)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 157, in move2goal
+    self.rate.sleep()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 103, in sleep
+    sleep(self._remaining(curr_time))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 166, in sleep
+    raise rospy.exceptions.ROSInterruptException("ROS shutdown request")
+ROSInterruptException: ROS shutdown request
+
+varsh@varsh-HP-ENVY-Notebook:~$ rosrun mybot_description NavigateActionServer.py
+Hello i am exceuting
+header:
+  seq: 17859
+  stamp:
+    secs: 595
+    nsecs: 575000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.9326
+      y: 0.9957
+      z: -0.00100217632557
+    orientation:
+      x: 1.14228821889e-05
+      y: 0.000580391191705
+      z: -0.0338257733889
+      w: 0.999427576201
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -8.55552534088e-05
+      y: -1.86541852512e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.00109496993845
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-3.87688885912
+[ INFO:0] Initialize OpenCL runtime...
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 187, 176)
+('\nORB DECISION SCORE', 2070.6891288757324)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 83)
+('MATCH SCORE', 47)
+[WARN] [1581648989.231501, 595.606000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+^C[ERROR] [1581648998.953965, 604.152000]: Exception in your execute callback: ROS shutdown request
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/simple_action_server.py", line 289, in executeLoop
+    self.execute_callback(goal)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 314, in execute
+    res = x.move2goal(X,Y,angleOfApproach)
+  File "/home/varsh/mybot_ws/src/mybot_description/scripts/NavigateActionServer.py", line 131, in move2goal
+    self.rate.sleep()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 103, in sleep
+    sleep(self._remaining(curr_time))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/timer.py", line 166, in sleep
+    raise rospy.exceptions.ROSInterruptException("ROS shutdown request")
+ROSInterruptException: ROS shutdown request
+
+varsh@varsh-HP-ENVY-Notebook:~$ rosrun mybot_description NavigateActionServer.py
+Hello i am exceuting
+header:
+  seq: 19525
+  stamp:
+    secs: 651
+    nsecs: 176000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.9027
+      y: 0.9936
+      z: -0.00100202954271
+    orientation:
+      x: -1.58520702625e-05
+      y: -0.000309706124528
+      z: -0.0339823842284
+      w: 0.999422383876
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -2.1202489825e-06
+      y: -2.45754916131e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.0010940488462
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-3.89484426124
+[ INFO:0] Initialize OpenCL runtime...
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 161, 176)
+('\nORB DECISION SCORE', 66.2735481262207)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 115)
+('MATCH SCORE', 71)
+('YOU are at node', 2)
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 161, 176)
+Bitch match
+[WARN] [1581649052.657729, 651.232000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 20500
+  stamp:
+    secs: 683
+    nsecs: 672000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -2.2927
+      y: 0.9503
+      z: -0.00100190311638
+    orientation:
+      x: -7.64899441038e-05
+      y: -0.00211837153195
+      z: -0.0333003892682
+      w: 0.999443140317
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -5.5627742935e-05
+      y: 1.0759350434e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.00137383068937
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-3.81665627834
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 179, 178)
+('\nORB DECISION SCORE', 1794.544979095459)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 103)
+('MATCH SCORE', 57)
+[WARN] [1581649088.999851, 683.723000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 21501
+  stamp:
+    secs: 717
+    nsecs:  43000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.691
+      y: 1.0183
+      z: -0.00100217786693
+    orientation:
+      x: 0.000162666045812
+      y: -0.000850696370096
+      z: 0.196737225594
+      w: 0.980455870461
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 0.000141070307786
+      y: 2.89050222367e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.000687981810672
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+22.6924601583
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 170, 189)
+('\nORB DECISION SCORE', -3137.7398643493652)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 76)
+('MATCH SCORE', 44)
+[WARN] [1581649126.565182, 717.110000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 22509
+  stamp:
+    secs: 750
+    nsecs: 643000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.3472
+      y: 1.4574
+      z: -0.00100201686717
+    orientation:
+      x: 0.00034284157387
+      y: -0.000383494470406
+      z: 0.673643310566
+      w: 0.739056442717
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -4.21210420273e-05
+      y: 5.35283132219e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.00046990142245
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.6977818996
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 190, 142)
+('\nORB DECISION SCORE', -13094.924270629883)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 77)
+('MATCH SCORE', 54)
+[WARN] [1581649163.068054, 750.673000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 23414
+  stamp:
+    secs: 780
+    nsecs: 810000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2844
+      y: 2.0625
+      z: -0.00100166305459
+    orientation:
+      x: 0.00171638655666
+      y: -0.00189233644835
+      z: 0.673396352678
+      w: 0.73927723168
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -9.53063529549e-05
+      y: 2.74502834227e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -1.03075820177e-06
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.6598247411
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 148, 123)
+('\nORB DECISION SCORE', -500.38157653808594)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 67)
+('MATCH SCORE', 54)
+[WARN] [1581649195.294446, 780.858000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 24351
+  stamp:
+    secs: 812
+    nsecs:  42000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2274
+      y: 2.6679
+      z: -0.00100187230871
+    orientation:
+      x: 0.00135373072693
+      y: -0.00149379578507
+      z: 0.673925096864
+      w: 0.738796927311
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -0.000126358444931
+      y: 2.73993307186e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000149510734511
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.7416805893
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 130, 82)
+('\nORB DECISION SCORE', -1438.5916442871094)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 53)
+('MATCH SCORE', 64)
+[WARN] [1581649230.085475, 812.097000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 25284
+  stamp:
+    secs: 843
+    nsecs: 142000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.1692
+      y: 3.2836
+      z: -0.00100191701177
+    orientation:
+      x: 0.00109309054429
+      y: -0.00121054027969
+      z: 0.673383873426
+      w: 0.739291213768
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -9.97211052799e-05
+      y: -1.14048976945e-05
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000536793731123
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+84.657688351
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 96, 52)
+('\nORB DECISION SCORE', -1357.8150634765625)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 37)
+('MATCH SCORE', 71)
+('YOU are at node', 8)
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 96, 52)
+Bitch match
+[WARN] [1581649264.155116, 843.214000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 26323
+  stamp:
+    secs: 877
+    nsecs: 776000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.2906
+      y: 3.8301
+      z: -0.00100256789004
+    orientation:
+      x: -0.00207233964873
+      y: 0.000648897480962
+      z: 0.953187174529
+      w: 0.302373105042
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: -7.27465408172e-05
+      y: -3.55754826103e-07
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: 0.000339105038408
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+144.799525856
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 56, 108)
+('\nORB DECISION SCORE', 14160.392753601074)
+
+IMAGE DATA SHOWS RIGHT SHIFT ERROR
+MOVE LEFT
+('ORB MATCHES', 39)
+('MATCH SCORE', 69)
+('YOU are at node', 9)
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 56, 108)
+Bitch match
+[WARN] [1581649301.732404, 877.830000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+Hello i am exceuting
+header:
+  seq: 27409
+  stamp:
+    secs: 913
+    nsecs: 976000000
+  frame_id: "odom"
+child_frame_id: "base_footprint"
+pose:
+  pose:
+    position:
+      x: -1.91
+      y: 3.9909
+      z: -0.00100211172944
+    orientation:
+      x: 0.00219105342375
+      y: 2.56572963624e-05
+      z: -0.999970899255
+      w: 0.00730748045536
+  covariance: [1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1000000000000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001]
+twist:
+  twist:
+    linear:
+      x: 8.21796170837e-05
+      y: 2.0541969652e-06
+      z: 0.0
+    angular:
+      x: 0.0
+      y: 0.0
+      z: -0.000729291023346
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+OREINTATION
+-179.162617381
+('\nNO. OF FEATURES DETECTED IN IMAGE1 AND IMAGE2', 117, 120)
+('\nORB DECISION SCORE', -13002.53299331665)
+
+IMAGE DATA SHOWS LEFT SHIFT ERROR
+MOVE RIGHT
+('ORB MATCHES', 61)
+('MATCH SCORE', 52)
+[WARN] [1581649341.318185, 914.034000]: Your executeCallback did not set the goal to a terminal status.  This is a bug in your ActionServer implementation. Fix your code!  For now, the ActionServer will set this goal to aborted
+
+---

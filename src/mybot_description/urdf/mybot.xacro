@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<robot xmlns:xacro="http://ros.org/wiki/xacro" name="mybot">
+
+<xacro:include filename="$(find mybot_description)/urdf/mybot.gazebo" />
+<xacro:include filename="$(find mybot_description)/urdf/macros.xacro" />
+
+<xacro:property name="PI" value="3.1415926535897931"/>
+
+<xacro:property name="chassisHeight" value="0.1"/>
+<xacro:property name="chassisLength" value="0.4"/>
+<xacro:property name="chassisWidth" value="0.2"/>
+<xacro:property name="chassisMass" value="50.0"/>
+
+<xacro:property name="casterRadius" value="0.05"/>
+<xacro:property name="casterMass" value="5.0"/>
+
+<xacro:property name="wheelWidth" value="0.05"/>
+<xacro:property name="wheelRadius" value="0.1"/>
+<xacro:property name="wheelPos" value="0.2"/>
+<xacro:property name="wheelMass" value="5.0"/>
+
+<xacro:property name="cameraSize" value="0.05"/>
+<xacro:property name="cameraMass" value="0.1"/>
+
+<!--Base link-->
+<link name="base_link">
+    <visual>
+        <origin xyz="0 0 ${wheelRadius}" rpy="0 0 0"/>
+            <geometry>
+                <box size="${chassisLength} ${chassisWidth} ${chassisHeight}"/>
+            </geometry>
+    </visual>
+    <!-- Base collision -->
+    <collision>
+        <origin xyz="0 0 ${wheelRadius}" rpy="0 0 0" />
+        <geometry>
+            <box size="${chassisLength} ${chassisWidth} ${chassisHeight}"/>
+        </geometry>
+    </collision>
+
+    <inertial>
+        <mass value="${chassisMass}"/>
+         <box_inertia m="${chassisMass}" x="${chassisLength}" y="${chassisWidth}" z="${chassisHeight}"/>
+    </inertial>
+  </link>
+
+
+<!-- caster wheel -->
+<link name="caster_wheel">
+<visual>
+    <origin xyz="${casterRadius-chassisLength/2} 0 ${casterRadius-chassisHeight+wheelRadius}" rpy="0 0 0"/>
+    <geometry>
+        <sphere radius="${casterRadius}"/>
+    </geometry>
+</visual>
+
+<collision>
+  <origin xyz="${casterRadius-chassisLength/2} 0 ${casterRadius - chassisHeight+wheelRadius}" rpy="0 0 0"/>
+  <geometry>
+      <sphere radius="${casterRadius}"/>
+  </geometry>
+</collision>
+
+<inertial>
+  <origin xyz="${casterRadius-chassisLength/2} 0 ${casterRadius-chassisHeight+wheelRadius}" rpy="0 0 0"/>
+  <mass value="5.0"/>
+  <sphere_inertia m="${casterMass}" r="${casterRadius}" />
+</inertial>
+</link>
+
+<joint name="caster_wheel_joint" type="fixed">
+  <parent link="base_link"/>
+  <child link="caster_wheel"/>
+</joint>
+
+<!-- The physical engine does not accept a base_link with inertia. It is then useful to add a simple link without inertia and make a joint between it and the chassis.  -->
+<link name="footprint" />
+
+<joint name="base_link_joint" type="fixed">
+  <parent link="footprint"/>
+  <child link="base_link"/>
+</joint>
+
+<wheel lr="right" tY="1"/>
+<wheel lr="left" tY="-1" />
+
+<link name="camera">
+  <collision>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+        <box size="${cameraSize} ${cameraSize} ${cameraSize}"/>
+      </geometry>
+    </collision>
+
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+        <geometry>
+          <box size="${cameraSize} ${cameraSize} ${cameraSize}"/>
+        </geometry>
+    </visual>
+
+    <inertial>
+      <mass value="${cameraMass}" />
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <box_inertia m="${cameraMass}" x="${cameraSize}" y="${cameraSize}" z="${cameraSize}" />
+    </inertial>
+  </link>
+
+  <joint name="camera_base_link" type="fixed">
+    <parent link="base_link"/>
+    <child link="camera"/>
+    <origin xyz="${chassisLength/2-cameraSize/2} 0 ${chassisHeight+casterRadius+cameraSize/2}" rpy="0 0 0"/>
+  </joint>
+
+</robot>

@@ -1,0 +1,1 @@
+/home/varsh/mybot_ws/devel/.private/mybot_description/share/roseus/ros/mybot_description/msg/NavigateResult.l
